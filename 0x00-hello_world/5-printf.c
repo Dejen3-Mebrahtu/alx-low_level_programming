@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main -program that prints a sentence followed by a new line.
+ * main - a program that prints a sentence followed by a new line.
  * using the printf function.
- * return:(success)
+ * Return: 0 (success)
  */
 int main(void)
 {
